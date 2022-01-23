@@ -14,3 +14,6 @@
   </p>
 </div>
 <br />
+
+# Description
+A process of designing a two-stage final amplifier with the orCAD PSpice tool
